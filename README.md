@@ -53,8 +53,8 @@ netflix-recommender/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-recommender.git
-cd netflix-recommender
+git clone https://github.com/lalit5700/NetflixRecommendationSystems.git
+cd NetflixRecommendationSystems
 ```
 
 ### Step 2: Install Dependencies
